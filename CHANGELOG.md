@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.94.3](https://www.github.com/googleapis/java-translate/compare/v1.94.2...v1.94.3) (2020-01-23)
+
+
+### Dependencies
+
+* update dependency org.threeten:threetenbp to v1.4.1 ([2c1ac0a](https://www.github.com/googleapis/java-translate/commit/2c1ac0a47042817e2856fd714a9deba3e67f6d00))
+
 ### [1.94.2](https://www.github.com/googleapis/java-translate/compare/v1.94.1...v1.94.2) (2020-01-07)
 
 
